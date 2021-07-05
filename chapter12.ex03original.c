@@ -63,6 +63,15 @@ int main()
     "ceci-sevilla@gmail.com",
     "41247853",
 		},
+    {
+		"Gabriel López Mendoza",
+		"LOMG020116HYNPNB06",
+		"Male",
+		"19",
+    "9993654356",
+    "gabolome.10@gmail.com",
+    "42546890",
+		},
 		};
 
 	size = sizeof(receiver) / sizeof //The number of persons that are in the data of the volunteer who is registering
